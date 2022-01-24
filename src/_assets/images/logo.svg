@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30.866mm"
+   height="7.3161mm"
+   version="1.1"
+   viewBox="0 0 30.866 7.3161"
+   id="svg64"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview66"
+     showgrid="false"
+     inkscape:zoom="3.3458481"
+     inkscape:cx="39.924435"
+     inkscape:cy="65.062931"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g62" />
+  <defs
+     id="defs32">
+    <linearGradient
+       id="linearGradient926">
+      <stop
+         stop-color="#4697cd"
+         offset="0"
+         id="stop2" />
+      <stop
+         stop-color="#339075"
+         stop-opacity=".97647"
+         offset=".25413"
+         id="stop4" />
+      <stop
+         stop-color="#a2357d"
+         offset=".53139"
+         id="stop6" />
+      <stop
+         stop-color="#387ea0"
+         offset=".74687"
+         id="stop8" />
+      <stop
+         stop-color="#9e31a0"
+         offset="1"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient849">
+      <stop
+         stop-color="#b04cb5"
+         offset="0"
+         id="stop13" />
+      <stop
+         stop-color="#446ca6"
+         offset=".36318"
+         id="stop15" />
+      <stop
+         stop-color="#57bed0"
+         offset=".53472"
+         id="stop17" />
+      <stop
+         stop-color="#7298e8"
+         offset=".74286"
+         id="stop19" />
+      <stop
+         stop-color="#389340"
+         offset="1"
+         id="stop21" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient851"
+       x1="15.559"
+       x2="23.137"
+       y1="70.413"
+       y2="77.441"
+       gradientTransform="translate(-2.9527 -.2904)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient849" />
+    <linearGradient
+       id="linearGradient928"
+       x1="17.776"
+       x2="21.864"
+       y1="75.645"
+       y2="75.959"
+       gradientTransform="matrix(1.6595 -.13974 .13604 1.7047 -27.021 -50.527)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient926" />
+    <linearGradient
+       id="linearGradient961"
+       x1="17.776"
+       x2="21.864"
+       y1="75.645"
+       y2="75.959"
+       gradientTransform="matrix(.12183 1.661 -1.706 .11765 165.94 31.991)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient926" />
+    <linearGradient
+       id="linearGradient963"
+       x1="15.559"
+       x2="23.137"
+       y1="70.413"
+       y2="77.441"
+       gradientTransform="translate(-6.4604 .071074)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient849" />
+    <linearGradient
+       id="linearGradient970"
+       x1="17.776"
+       x2="21.864"
+       y1="75.645"
+       y2="75.959"
+       gradientTransform="matrix(.090026 1.2274 -1.2607 .086934 133.94 41.712)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient926" />
+    <filter
+       id="filter990"
+       x="-3.3737e-6"
+       y="-9.5487e-6"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         stdDeviation="1.9221868e-05"
+         id="feGaussianBlur29" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-9.2168 -70.534)"
+     id="g62">
+    <g
+       transform="translate(-3.3912 -24.281)"
+       id="g42">
+      <path
+         d="m16.328 70.704a0.1306 0.13415 3.8663e-6 0 0-0.09272 0.06479l-1.6701 2.993-1.6733 2.9933a0.1306 0.13415 3.8663e-6 0 0 0.11398 0.20157l3.3601-0.01143 3.3571-0.0078a0.1306 0.13415 3.8663e-6 0 0 0.11424-0.20402l-1.69-2.9816-1.6868-2.9819a0.1306 0.13415 3.8663e-6 0 0-0.13252-0.06593zm0.02216 0.40035 1.5731 2.7836 1.5728 2.7803-6.2637 0.018 1.5591-2.7893z"
+         color="#000000"
+         color-rendering="auto"
+         dominant-baseline="auto"
+         fill="url(#linearGradient928)"
+         image-rendering="auto"
+         opacity=".54115"
+         shape-rendering="auto"
+         solid-color="#000000"
+         stop-color="#000000"
+         style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+         id="path36" />
+      <text
+         x="11.835602"
+         y="76.934853"
+         fill="url(#linearGradient851)"
+         font-family="Calibri"
+         font-size="10.583px"
+         letter-spacing="5.4557px"
+         stroke-width=".265"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text40"><tspan
+           x="11.835602"
+           y="76.934853"
+           fill="url(#linearGradient851)"
+           font-family="Calibri"
+           stroke-width=".265"
+           id="tspan38">M</tspan></text>
+    </g>
+    <g
+       id="g899">
+      <text
+         transform="scale(1.078 .92768)"
+         x="16.089424"
+         y="82.39994"
+         fill="#ffffff"
+         filter="url(#filter990)"
+         font-family="Roboto"
+         font-size="6.6139px"
+         letter-spacing=".013066px"
+         stroke-width=".15501"
+         word-spacing="-.0077508px"
+         style="line-height:1.15"
+         xml:space="preserve"
+         id="text46"><tspan
+           x="16.089424"
+           y="82.39994"
+           fill="#ffffff"
+           font-family="Roboto"
+           font-size="6.6139px"
+           stroke-width=".15501"
+           id="tspan44">OVIE</tspan></text>
+      <text
+         x="8.3279419"
+         y="77.296333"
+         fill="url(#linearGradient963)"
+         font-family="Calibri"
+         font-size="10.583px"
+         letter-spacing="5.4557px"
+         stroke-width=".265"
+         style="line-height:1.25"
+         xml:space="preserve"
+         id="text50"><tspan
+           x="8.3279419"
+           y="77.296333"
+           fill="url(#linearGradient963)"
+           font-family="Calibri"
+           stroke-width=".265"
+           id="tspan48">M</tspan></text>
+      <g
+         transform="translate(-3.6333 .15726)"
+         id="g58">
+        <g
+           transform="translate(-.53454 .20045)"
+           shape-rendering="auto"
+           id="g56">
+          <path
+             d="m44.25 74.03a0.13415 0.1306 0.61793 0 0-0.06379-0.09341l-2.9748-1.7022-2.9751-1.7055a0.13415 0.1306 0.61793 0 0-0.20278 0.1118l-0.02481 3.36-0.02841 3.357a0.13415 0.1306 0.61793 0 0 0.20278 0.11644l2.9996-1.6578 2.9999-1.6545a0.13415 0.1306 0.61793 0 0 0.06735-0.1318zm-0.40057 0.01784-2.8004 1.5429-2.7971 1.5427 0.02478-3.1318 0.02478-3.1318 2.7723 1.589z"
+             color="#000000"
+             color-rendering="auto"
+             dominant-baseline="auto"
+             fill="url(#linearGradient961)"
+             image-rendering="auto"
+             opacity=".89526"
+             solid-color="#000000"
+             stop-color="#000000"
+             style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+             id="path52" />
+          <path
+             d="m44.016 72.777a0.09913 0.096506 0.61793 0 0-0.04714-0.06902l-2.1982-1.2579-2.1984-1.2603a0.09913 0.096506 0.61793 0 0-0.14985 0.08261l-0.01833 2.4829-0.02099 2.4806a0.09913 0.096506 0.61793 0 0 0.14984 0.08604l2.2166-1.225 2.2168-1.2226a0.09913 0.096506 0.61793 0 0 0.04977-0.0974zm-0.296 0.01318-2.0694 1.1402-2.0669 1.14 0.01831-2.3142 0.01831-2.3142 2.0486 1.1742z"
+             color="#000000"
+             color-rendering="auto"
+             dominant-baseline="auto"
+             fill="url(#linearGradient970)"
+             image-rendering="auto"
+             opacity=".54115"
+             solid-color="#000000"
+             stop-color="#000000"
+             style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;paint-order:stroke fill markers;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"
+             id="path54" />
+        </g>
+      </g>
+    </g>
+    <rect
+       x="6.4479"
+       y="86.529"
+       width="32.44"
+       height="3.4411"
+       fill="#4697cd"
+       opacity=".89526"
+       stroke="#000"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-width=".265"
+       style="paint-order:stroke fill markers"
+       id="rect60" />
+  </g>
+</svg>
